@@ -1,4 +1,8 @@
-# DomainSentinel
+# DomainSentinel 
+
+# Migrated to [TelegramBots / DomainSentinel GitLab](https://fleef.ru/telegrambots/domainsentinel) - There will be no updates here
+# Перешёл на [TelegramBots/DomainSentinel GitLab](https://fleef.ru/telegrambots/domainsentinel) - обновлений здесь не будет
+
 
 **DomainSentinel** — это Telegram-бот для мониторинга изменений в списке доменов. Бот автоматически отслеживает добавление и удаление доменов, отправляя уведомления подписанным пользователям. Проект разработан для обеспечения актуальной информации о доменах и упрощения управления ими.
 
